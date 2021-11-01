@@ -28,7 +28,7 @@ body {
 
 .card-body {
   background-color: var(--secondary);
-  color: var(--primary);
+  color: black;
 }
 
 .container {
