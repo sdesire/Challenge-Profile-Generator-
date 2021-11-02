@@ -10,3 +10,5 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 # Video Link
 https://youtu.be/Ctut4dAgtng
+
+https://youtu.be/MqSZQQAQmHE
